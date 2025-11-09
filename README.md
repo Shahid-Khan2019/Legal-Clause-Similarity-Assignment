@@ -5,8 +5,8 @@ This repository contains the implementation and analysis for the **Legal Clause 
 The objective of this assignment was to build and compare baseline deep learning models that identify whether two legal clauses convey the same meaning.
 
 Both the **code file** and **report** are included here:
-- `legal_clause_similarity_colab.ipynb` → Complete code for preprocessing, model training, and evaluation.
-- `i232038_LegalClauseSimilarity_Report.pdf` → Detailed report with architecture explanation, metrics, graphs, and examples.
+- `Code.ipynb` → Complete code for preprocessing, model training, and evaluation.
+- `22I-2019_ShahidUllah.pdf` → Detailed report with architecture explanation, metrics, graphs, and examples.
 
 ---
 
@@ -109,3 +109,8 @@ The **Attention-based BiLSTM** model achieved the highest performance with super
 ---
 
 ## 📎 Repository Contents
+
+---
+
+## 🔗 **Submission**
+This repository is submitted as part of the **Deep Learning Course Assignment** for evaluation purposes.
